@@ -1,0 +1,3 @@
+[submodule "vim-codefmt"]
+	path = vim-codefmt
+	url = https://github.com/google/vim-codefmt.git
